@@ -170,3 +170,13 @@ input[type="radio"] {
     margin-top: -35px;
     margin-bottom: 12px;
 }
+
+#move {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 100%;
+}
